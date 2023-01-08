@@ -10,6 +10,7 @@ use App\Entity\Lion;
 
 $baleine = new Baleine();
 $baleine->chant();
+$baleine->getName("Flipper");
 
 $chat = new Chat();
 $chat-> miaule();
