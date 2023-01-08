@@ -1,0 +1,2 @@
+//Ce projet en POO va se porter sur les animaux
+//On va utiliser 2 types d'animaux : terrestres et marins
